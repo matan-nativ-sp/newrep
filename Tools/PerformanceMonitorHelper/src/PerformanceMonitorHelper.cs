@@ -19,10 +19,10 @@ namespace WBX.whiteOPS.Tools.PerformanceMonitorHelper {
         public const string WBX_CATEGORY_HELP = "WhiteOPS category for the application modules counters";
 
         #endregion
-
+        sdfsdfsdf
         /// <summary>
         /// This method will create a new counter category.
-        /// 
+        /// sdfsdf
         /// Note that only one counter is added in this code.
         /// If more than one counter needs to be created simply copy 
         /// the code that creates the sampleCounter object and add it 
