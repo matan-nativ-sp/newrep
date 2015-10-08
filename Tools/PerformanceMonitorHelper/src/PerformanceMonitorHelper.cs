@@ -12,7 +12,7 @@ namespace WBX.whiteOPS.Tools.PerformanceMonitorHelper {
     // Author: Itay Maichel
     // FileName: PerformanceMonitorHelper.cs
     public static class PerformanceMonitorHelper {
-
+        bug bug bug
         #region Constants
 
         public const string WBX_CATEGORY_NAME = "WhiteOPS";
